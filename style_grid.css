@@ -6,3 +6,8 @@ body{
     display: grid;
     grid-template-columns: auto auto auto;
 }
+
+.container>div{
+    background-color: yellow;
+    border: 1px solid black;
+}
