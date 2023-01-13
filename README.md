@@ -1,15 +1,15 @@
-<h1 align="center">Aula 2 Sass XP46</h1>
+<h1 align="center">Aula Grid XP46</h1>
 
 <br>
 
-<h3 align="center">Aula 2 de Introdução ao Framework Sass do Gama Experience Edição 46 - Grid</h3>
+<h3 align="center">Aula de Grid do Gama Experience Edição 46 - Grid</h3>
 
 <br>
 
-<p align="center">Nesta aula veremos a grid do framework Sass:</p><br>
+<p align="center">Nesta aula veremos a grid no CSS:</p><br>
 <ul style= "text-align: center; list-style-type: none">
-    <li>- </li><br>
-    <li>- </li><br>
+    <li>- Como fazer a estruturação da grid</li><br>
+    <li>- Como estilizar a grid</li><br>
     <li>- </li><br>
 </ul>
 
