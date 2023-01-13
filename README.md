@@ -1,8 +1,8 @@
-<h1 align="center">Aula Grid XP46</h1>
+<h1 align="center">Aula 2 CSS Avançado XP46</h1>
 
 <br>
 
-<h3 align="center">Aula de Grid do Gama Experience Edição 46 - Grid</h3>
+<h3 align="center">Aula 2 de CSS Avançado do Gama Experience Edição 46 - Grid</h3>
 
 <br>
 
