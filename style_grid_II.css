@@ -1,24 +1,54 @@
+body{
+    padding-top: 10px
+}
+
+#button_volta{
+    text-decoration: none;
+    color: rgb(234, 233, 242);
+    background-color: blue;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#button_volta:hover{
+    background-color: rgb(88, 67, 207);
+    transition: 0.3s all;
+}
+
 .grid_container {
     display: grid;
     grid-template-areas: 
     'header header header header header header'
     'main main main right right right'
-    'footer footer footer footer footer footer'
+    'footer footer footer footer footer footer';
+    gap: 7px;
+    margin-top: 20px;
+}
+
+.grid_container>div{
+    padding: 60px;
+    text-align: center;
+    font-size: 30px;
 }
 
 .item1{
     grid-area: header;
+    background-color: gray;
 }
 .item2{
     grid-area: main;
+    background-color: green;
 }
 
 .item3{
     grid-area: right;
+    background-color: yellow;
 }
 
 .item4 {
     grid-area: footer;
+    background-color: gray;
 
 }
 
