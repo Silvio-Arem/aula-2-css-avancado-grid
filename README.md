@@ -8,9 +8,9 @@
 
 <p align="center">Nesta aula veremos a grid no CSS:</p><br>
 <ul style= "text-align: center; list-style-type: none">
-    <li>- Como fazer a estruturação da grid por colunas</li><br>
-    <li>- Como fazer a estruturação da grid por areas</li><br>
-    <li>- Como estilizar a grid</li><br>
+    <li> Como fazer a estruturação da grid por colunas</li><br>
+    <li> Como fazer a estruturação da grid por areas</li><br>
+    <li> Como estilizar a grid</li><br>
 </ul>
 
 <br>
