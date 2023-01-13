@@ -1,0 +1,24 @@
+.grid_container {
+    display: grid;
+    grid-template-areas: 
+    'header header header header header header'
+    'main main main right right right'
+    'footer footer footer footer footer footer'
+}
+
+.item1{
+    grid-area: header;
+}
+.item2{
+    grid-area: main;
+}
+
+.item3{
+    grid-area: right;
+}
+
+.item4 {
+    grid-area: footer;
+
+}
+
